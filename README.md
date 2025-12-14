@@ -2,7 +2,7 @@
 
 # 人工智慧的企業架構 (Enterprise Architecture For AI)
 
-👉 **[點擊此處瀏覽線上互動式架構圖 (Online Architecture Site)](https://jasonkao1977.github.io/aiea)** 👈
+👉 **[點擊此處瀏覽線上互動式架構圖 (Online Architecture Site)](https://jasonkao1977.github.io/aiea/)** 👈
 
 ## 專案簡介 (Project Overview)
 本專案提供了一套基於 **ArchiMate 3.2** 標準的企業架構 (EA) 模型，專為 **資訊長 (CIO)** 設計。
