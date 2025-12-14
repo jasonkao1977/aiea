@@ -1,4 +1,4 @@
-# Enterprise Architecture for AI & Cloud Computing (CIO Strategic View)
+# Enterprise Architecture for AI (CIO Strategic View)
 
 # 人工智慧的企業架構 (Enterprise Architecture For AI)
 
@@ -18,7 +18,7 @@
 
 ## 目標受眾 (Target Audience)
 * **Primary:** CEO, Board of Directors (董事會), Audit Committee (稽核委員會)
-* **Secondary:** CFO (財務長), COO (營運長), CISO (資安長)
+* **Secondary:** CFO (財務長), COO (營運長), CISO (資安長), DPO(資料保護長)
 
 ## 模型結構 (Model Structure)
 本模型採用 ArchiMate 分層架構，並特別強化了 **Motivation (動機層)** 與 **Strategy (戰略層)** 的視圖設計，去除過多的技術實作細節，以確保高層決策的聚焦。
