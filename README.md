@@ -7,7 +7,7 @@
 ## 專案簡介 (Project Overview)
 本專案提供了一套基於 **ArchiMate 3.2** 標準的企業架構 (EA) 模型，專為 **資訊長 (CIO)** 設計。
 
-其核心目的是解決 IT 與業務之間的溝通斷層，將複雜的 **Generative AI (GenAI)** 與 **雲端運算** 技術細節，轉化為 **CEO 與董事會 (Board of Directors)** 關注的商業價值、風險控管與財務指標。
+其核心目的是解決 IT 與業務之間的溝通斷層，將複雜的 **AI (包含Gen AI)**  技術細節，轉化為 **CEO 與董事會 (Board of Directors)** 關注的**商業價值、風險控管與財務指標**。
 
 ## 核心價值 (Value Proposition)
 本架構模型不只展示技術堆疊，更著重於回答以下戰略問題：
@@ -17,7 +17,7 @@
 * **Timeline:** 我們何時能從試點 (Pilot) 走向規模化應用 (Transformative)？(Roadmap)
 
 ## 目標受眾 (Target Audience)
-* **Primary:** CEO, Board of Directors (董事會), Audit Committee (審計委員會)
+* **Primary:** CEO, Board of Directors (董事會), Audit Committee (稽核委員會)
 * **Secondary:** CFO (財務長), COO (營運長), CISO (資安長)
 
 ## 模型結構 (Model Structure)
